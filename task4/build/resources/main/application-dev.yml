@@ -1,0 +1,3 @@
+spring:
+  appname: "Development name"
+  env: "default"

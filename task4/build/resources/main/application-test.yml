@@ -1,0 +1,4 @@
+spring:
+  appname: "Name for test profile"
+  env: "test"
+
